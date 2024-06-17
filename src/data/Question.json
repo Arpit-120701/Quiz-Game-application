@@ -1,0 +1,53 @@
+[
+    
+    {
+        "title":"Which concept of OOP encapsulates the properties (data) and behaviors (methods) of a real-world object into a single entity? ",
+        "options":["Polymorphism", "Encapsulation" ,"Inheritance", "Abstraction"],
+        "correctOptionIndex":"2"
+    },
+    {
+        "title":" Which of the following is a correct way to define a component's initial state in a class component?",
+        "options":["Inside the render() method", "Inside the constructor() method","Outside the class definition","Directly inside the class body"],
+        "correctOptionIndex":"2"
+    },
+    {
+    "title":" Which of the following method is used to compare the placement of two nodes in the DOM hierarchy (document)?",
+    "options":["cloneNode()","compareDocumentPosition()","getFeature()", "getUserData()"],
+    "correctOptionIndex":"2"
+    },
+    {
+    "title":"In a for loop, what are the three optional expressions, separated by semicolons?",
+    "options":["Condition, Incrementer, Initializer","Condition, Incrementer, Initializer","Incrementer, Initializer, Condition","Initializer, Condition, Incrementer"],
+    "correctOptionIndex":"4"
+    },
+    {
+    "title":"  Which of the following methods/operation does javascript use instead of == and !=?",
+    "options":["JavaScript uses equalto()","JavaScript uses equals() and notequals() instead","JavaScript uses bitwise checking","JavaScript uses === and !== instead"],
+    "correctOptionIndex":"4"
+    },
+    {
+    "title":"Which statement is used to execute a block of code multiple times in JavaScript? ",
+    "options":["for", "if", "return", "break"],
+    "correctOptionIndex":"1"
+    },
+    {
+        "title":" What of the following is used in React.js to increase performance? ",
+        "options":["Original DOM","Both A and B.","Virtual DOM","None of the above"],
+        "correctOptionIndex":"3"
+    },
+    {
+        "title":"  Which of the following is a must API for every React.js component? ",
+        "options":["SetinitialComponent","render","All of the above","renderComponent"],
+        "correctOptionIndex":"4"
+    },
+    {
+        "title":"  Which of the following command is used to install the Node.js express module? ",
+        "options":["$ npm install express","$ node install express","$ install express","None of the above"],
+        "correctOptionIndex":"1"
+    },
+    {
+        "title":"Which of the following statement is used to execute the code of the sample.js file?  ",
+        "options":["sample.js","node sample.js","nodejs sample.js","None of the above."],
+        "correctOptionIndex":"2"
+    }
+]
